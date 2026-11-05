@@ -1,4 +1,4 @@
-# AITA Self Custody Wallet
+# CLAW Self Custody Wallet
 
 > A self-custody wallet engineered for uncompromising security and lightning-fast trading.
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-AITA Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, AITA combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
+CLAW Wallet is a non-custodial crypto wallet built for traders who demand both ironclad security and execution speed. Your keys never leave your device, and your trades never wait in line. Designed from the ground up for active on-chain traders, CLAW combines hardware-grade key management with a high-performance trading engine optimized for sub-second order routing.
 
 **You own your keys. You own your trades. No middlemen, no custodians, no compromises.**
 
@@ -19,7 +19,7 @@ AITA Wallet is a non-custodial crypto wallet built for traders who demand both i
 ## Key Features
 
 ### 🔐 Security First
-- **True self-custody** — Private keys are generated and stored locally; AITA servers never see them
+- **True self-custody** — Private keys are generated and stored locally; CLAW servers never see them
 - **Hardware wallet support** — Native integration with Ledger, Trezor, and other major hardware devices
 - **Encrypted local storage** — AES-256 encryption with a user-defined passphrase
 - **Biometric unlock** — Face ID, Touch ID, and Android biometric authentication
@@ -53,10 +53,10 @@ AITA Wallet is a non-custodial crypto wallet built for traders who demand both i
 
 ### Desktop (macOS, Windows, Linux)
 
-Download the latest release from [AITA.io/download](https://AITA.io/download), or build from source:
+Download the latest release from [CLAW.io/download](https://CLAW.io/download), or build from source:
 
 ```bash
-git clone https://github.com/AITA/NART-wallet.git
+git clone https://github.com/CLAW/NART-wallet.git
 cd NART-wallet
 npm install
 npm run build
@@ -65,7 +65,7 @@ npm start
 
 ### Mobile
 - [iOS App Store](https://apps.apple.com/app/NART-finance)
-- [Google Play](https://play.google.com/store/apps/details?id=io.AITA)
+- [Google Play](https://play.google.com/store/apps/details?id=io.CLAW)
 
 ### Browser Extension
 - [Chrome Web Store](https://chrome.google.com/webstore)
@@ -75,9 +75,9 @@ npm start
 
 ## Quick Start
 
-1. **Install** AITA on your platform of choice.
+1. **Install** CLAW on your platform of choice.
 2. **Create a wallet** or import an existing one using a seed phrase or hardware device.
-3. **Back up your seed phrase** — write it down and store it offline. AITA cannot recover it for you.
+3. **Back up your seed phrase** — write it down and store it offline. CLAW cannot recover it for you.
 4. **Fund your wallet** by sending crypto to your address or bridging from another chain.
 5. **Start trading** — connect to any dApp or use the built-in swap interface.
 
@@ -85,7 +85,7 @@ npm start
 
 ## Architecture
 
-AITA is built on a modular, security-focused architecture:
+CLAW is built on a modular, security-focused architecture:
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -108,14 +108,14 @@ AITA is built on a modular, security-focused architecture:
 
 ## Security
 
-Security is the foundation of AITA, not an afterthought.
+Security is the foundation of CLAW, not an afterthought.
 
 - **Audits** — Audited by leading security firms; full reports available in [`/audits`](./audits)
 - **Bug bounty** — Up to $250,000 for critical vulnerabilities. See [SECURITY.md](./SECURITY.md)
 - **Reproducible builds** — Verify that the binary you run matches the public source code
 - **No telemetry by default** — Opt-in only, never tied to wallet addresses
 
-If you discover a security vulnerability, please email **security@AITA.io** rather than opening a public issue.
+If you discover a security vulnerability, please email **security@CLAW.io** rather than opening a public issue.
 
 ---
 
@@ -150,23 +150,23 @@ npm run dev
 
 ## License
 
-AITA is released under the [MIT License](./LICENSE).
+CLAW is released under the [MIT License](./LICENSE).
 
 ---
 
 ## Disclaimer
 
-AITA is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. AITA is provided "as is" without warranty of any kind.
+CLAW is non-custodial software. You are solely responsible for the security of your seed phrase and private keys. Lost keys cannot be recovered. Cryptocurrency trading involves substantial risk; never trade more than you can afford to lose. CLAW is provided "as is" without warranty of any kind.
 
 ---
 
 ## Links
 
-- 🌐 Website: [AITA.io](https://AITA.io)
-- 📖 Docs: [docs.AITA.io](https://docs.AITA.io)
-- 🐦 Twitter: [@AITA](https://twitter.com/AITA)
-- 💬 Discord: [discord.gg/AITA](https://discord.gg/AITA)
-- 📧 Contact: hello@AITA.io
+- 🌐 Website: [CLAW.io](https://CLAW.io)
+- 📖 Docs: [docs.CLAW.io](https://docs.CLAW.io)
+- 🐦 Twitter: [@CLAW](https://twitter.com/CLAW)
+- 💬 Discord: [discord.gg/CLAW](https://discord.gg/CLAW)
+- 📧 Contact: hello@CLAW.io
 
 ---
 
